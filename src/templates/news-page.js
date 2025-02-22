@@ -51,8 +51,7 @@ query IndexPage {
     siteMetadata {
       title
       social{
-        twitter
-        facebook
+        instagram
       }
     }
   }

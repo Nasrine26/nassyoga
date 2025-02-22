@@ -5,9 +5,9 @@ const siteConfig = {
   url: '/', // Domain of your site without prefix!
   prefix: '/',
   author: 'Nasrine Metic',
-  twitter: '' ,
-  facebook:'',
-  github:'',
+  instagram: 'nassyoga/' ,
+  // facebook:'',
+  // github:'',
   manifest_icon:`src/img/vase.png`,
   image:`/vase.png`
 
