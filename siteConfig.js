@@ -1,10 +1,10 @@
 const siteConfig = {
-  name: 'Clay',
-  shortName: 'Clay',
-  description: 'Clay - Personal Gatsby Theme',
+  name: 'NASSYOGA',
+  shortName: 'NYOGA',
+  description: 'My yoga website',
   url: '/', // Domain of your site without prefix!
   prefix: '/',
-  author: 'Travis Lord & Abdul Waqar',
+  author: 'Nasrine Metic',
   twitter: '' ,
   facebook:'',
   github:'',
