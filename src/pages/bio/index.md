@@ -1,22 +1,30 @@
 ---
 templateKey: bio-page
-thumbnail: /img/clay-image-1.jpg
+thumbnail: /img/DSC_9568.jpg
 date: 2023-03-02T10:17:05.133Z
 title: Bio
-description: A stunning Gatsby theme designed for captivating image-centric websites, perfect for photographers, portfolios, and more.
+description: A little bit about me...
 number: 1
 pagetype:
   - main
-featuredimage: /img/clay-image-1.jpg
+featuredimage: /img/DSC_9568.jpg
 ---
-![clay-images-11](/img/clay-images-11.jpg)
 
-![clay-images-12](/img/clay-images-12.jpg)
+<!-- ![clay-images-11](/img/clay-images-11.jpg) -->
+<!-- ![clay-images-12](/img/clay-images-12.jpg) -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque. Nullam non nisi est sit amet facilisis. Quisque id diam vel quam. Morbi tincidunt augue interdum velit. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Mi tempus imperdiet nulla malesuada pellentesque. Maecenas ultricies mi eget mauris pharetra et ultrices. Cursus risus at ultrices mi tempus imperdiet nulla. Sit amet nisl suscipit adipiscing bibendum est ultricies. At volutpat diam ut venenatis tellus in. Cursus eget nunc scelerisque viverra mauris in. Ut aliquam purus sit amet luctus venenatis lectus.
+<p style="text-align: justify;">
+Hello, I’m Nasrine!
+
+Yoga has always been an integral part of my life - on and off the mat - from an early age thanks to my mom and grandmother. After seven years of practice, I chose to deepen my journey by becoming an accredited Vinyasa and Hatha Yoga Teacher. With a background in Life Sciences, I bring a unique understanding of health, wellbeing, and the human
+body to my teaching. In my classes, I guide students to cultivate a deeper connection to themselves. By consciously flowing with our breath, we learn to soften, let go, and rediscover inner peace. Through mindful movement, we create space for healing, self-awareness and transformation. 
+
+My teaching philosophy is grounded in the balance between gentleness, strength, kindness, and listening to one’s body. A moment of reconnection with self through meditation, pranayama and postural practice. 
+
+My motto: Align. Breathe. Connect
+</p>
 
 
-
-<a href="https://unsplash.com/@tomcrewceramics" target="_blank">Image credits - Tom Crew</a>
+<a href="http://www.hannahtravis.com/" target="_blank">Image credits - Hannah Travis</a>
 
 

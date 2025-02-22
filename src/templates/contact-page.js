@@ -54,7 +54,7 @@ const ContactPage = ({ data }, location) => {
         </div>
       )}
         <div className="post-content-body">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque. Nullam non nisi est sit amet facilisis. Quisque id diam vel quam. Morbi tincidunt augue interdum velit. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Mi tempus imperdiet nulla malesuada pellentesque. Maecenas ultricies mi eget mauris pharetra et ultrices. Cursus risus at ultrices mi tempus imperdiet nulla. Sit amet nisl suscipit adipiscing bibendum est ultricies. At volutpat diam ut venenatis tellus in. Cursus eget nunc scelerisque viverra mauris in. Ut aliquam purus sit amet luctus venenatis lectus.</p>
+          <p>Let's connect! If you'd like to learn more about my classes, retreats or workshops, please get in touch.</p>
 
           <h3 id="forms">Form</h3>
           <form name="contact" method="POST" data-netlify="true" action="thanks" onSubmit={handleSubmit}
@@ -108,15 +108,15 @@ const ContactPage = ({ data }, location) => {
                 />
               </div>
               {/* Break */}
-              {/* General, Purchase, Commissions, Exhibitions, Gallery Feature, Other */}
+              {/* General, Individual class, Corporate class, Retreat, Advice, Other */}
               <div className="col-12">
                 <select name="category" id="category" onChange={handleChange} required={true}>
                   <option value>-Nature of Enquiry-</option>
                   <option value={"General"}>General</option>
-                  <option value={"Purchase"}>Purchase</option>
-                  <option value={"Commissions"}>Commissions</option>
-                  <option value={"Exhibitions"}>Exhibitions</option>
-                  <option value={"Gallery Feature"}>Gallery Feature</option>
+                  <option value={"Individual class"}>Individual class</option>
+                  <option value={"Corporate class"}>Corporate class</option>
+                  <option value={"Retreat"}>Retreat</option>
+                  <option value={"Advice"}>Advice</option>
                   <option value={"Other"}>Other</option>
                 </select>
               </div>

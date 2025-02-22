@@ -12,8 +12,6 @@ module.exports = {
     siteUrl: "https://clay-gatsby.netlify.app/",
     social: {
       instagram: siteConfig.instagram,
-      //facebook: siteConfig.facebook,
-      //github: siteConfig.github,
     },
   },
   plugins: [
