@@ -97,12 +97,8 @@ const Layout = (props) => {
           Nasrine Metic
         </a>
         {""} & {""}
-        <a
-          href="https://travislord.xyz/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Travis Lord
+        <a>
+          Francesco Terenzi
         </a>
       </footer>
     </div>

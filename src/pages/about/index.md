@@ -16,7 +16,7 @@ featuredimage: /img/DSC_9568.jpg
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="text-align: justify;">
     <h2>A little bit about me...</h2>
-    <p>Hello, I’m <span style="color: #9C5648;">Nasrine!</span></p>
+    <p>Hello, I’m <strong><span style="color: #9C5648;">Nasrine!</span></strong></p>
     <p>
       Yoga has always been an integral part of my life - on and off the mat - from an early age thanks to my mom and grandmother.
       After seven years of practice, I chose to deepen my journey by becoming an accredited Vinyasa and Hatha Yoga Teacher.
@@ -30,6 +30,9 @@ featuredimage: /img/DSC_9568.jpg
       A moment of reconnection with self through meditation, pranayama and postural practice.
     </p>
     <p><strong><span style="color: #9C5648;">My motto: Align. Breathe. Connect.</strong></p>
+
+  <p>"Yoga allows you to find a new kind of freedom that you may not know even existed." - B.K.S Iyengar
+  </p>
   </div>
 </div>
 
