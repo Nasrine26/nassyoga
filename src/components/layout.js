@@ -37,34 +37,28 @@ const Layout = (props) => {
                 <Link to={`/`}>Home</Link>
               </li>
               <li
-                className={`nav-home  ${data.pathname.includes("/bio") ? "nav-current" : ""} `}
+                className={`nav-home  ${data.pathname.includes("/about") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/bio`}>Bio</Link>
+                <Link to={`/about`}>About</Link>
               </li>
               <li
-                className={`nav-home  ${data.pathname.includes("/work") ? "nav-current" : ""} `}
+                className={`nav-home  ${data.pathname.includes("/gallery") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/work`}>Work</Link>
+                <Link to={`/gallery`}>Gallery</Link>
               </li>
               <li
-                className={`nav-home  ${data.pathname.includes("/news") ? "nav-current" : ""} `}
+                className={`nav-home  ${data.pathname.includes("/schedule") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/news`}>News</Link>
+                <Link to={`/schedule`}>Schedule</Link>
               </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/contact") ? "nav-current" : ""} `}
                 role="menuitem"
               >
                 <Link to={`/contact`}>Contact</Link>
-              </li>
-              <li
-                className={`nav-home  ${data.pathname.includes("/elements") ? "nav-current" : ""} `}
-                role="menuitem"
-              >
-                <Link to={`/elements`}>Elements</Link>
               </li>
             </ul>
           </nav>

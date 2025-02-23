@@ -108,7 +108,7 @@ const ContactPage = ({ data }, location) => {
                 />
               </div>
               {/* Break */}
-              {/* General, Individual class, Corporate class, Retreat, Advice, Other */}
+              {/* General, Individual class, Corporate class, Retreat, Other */}
               <div className="col-12">
                 <select name="category" id="category" onChange={handleChange} required={true}>
                   <option value>-Nature of Enquiry-</option>
@@ -116,7 +116,6 @@ const ContactPage = ({ data }, location) => {
                   <option value={"Individual class"}>Individual class</option>
                   <option value={"Corporate class"}>Corporate class</option>
                   <option value={"Retreat"}>Retreat</option>
-                  <option value={"Advice"}>Advice</option>
                   <option value={"Other"}>Other</option>
                 </select>
               </div>
