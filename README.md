@@ -9,9 +9,7 @@
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lilxyzz/clay-theme)
 
-An image-centric Gatsby theme for publishers, portfolio, photographers blogs and more.
-
-Visually engaging Gatsby theme tailored for publishers, portfolios and more, meticulously crafted to showcase your graphics seamlessly. It's completely free and fully responsive, ensuring a stunning display across all devices.
+An image-centric Gatsby theme for a yoga teacher-
 
 **If you found the repository valuable or enjoyed using it, consider showing your support by giving it a 5-star rating 🍻**
 
