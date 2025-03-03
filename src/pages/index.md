@@ -2,7 +2,7 @@
 templateKey: index-page
 title: NASSYOGA 
 image: /img/clay-images-7.jpg
-description: A stunning Gatsby theme designed for captivating image-centric websites, perfect for photographers, portfolios, and blogs.
+description: Come & flow with me to the beat of your breath.
 thumbnail: /img/clay-images-7.jpg
 heading: Main Heading
 subheading: Sub HEading
