@@ -8,8 +8,8 @@ const siteConfig = {
   instagram: 'nassyoga/' ,
   // facebook:'',
   // github:'',
-  manifest_icon:`src/img/nassylogo_temp.png`,
-  image:`/nassylogo_temp.png`
+  manifest_icon:`src/img/nassyoga_logo.jpg`,
+  image:`/nassyoga_logo.jpg`
 
 }
 

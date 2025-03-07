@@ -15,8 +15,6 @@ featuredimage: /img/DSC_9803.jpg
 ![DSC_9561](/img/DSC_9580.jpg)
 ![DSC_9779](/img/DSC_9779.jpg)
 ![DSC_9674](/img/DSC_9674.jpg)
-<!-- ![clay-images-11](/img/clay-images-11.jpg) -->
-<!-- ![clay-images-12](/img/clay-images-12.jpg) -->
 
 
 <a href="http://www.hannahtravis.com/" target="_blank">Image credits - Hannah Travis</a>

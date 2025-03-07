@@ -5,7 +5,6 @@ date: 2023-03-06T05:10:14.676Z
 title: Wed @CitySport Vinyasa Yoga 17.45pm
 description: "Move to the beat of your breath"
 ---
-<!-- ![clay-images-11](/img/clay-images-11.jpg) -->
 
 We flow through the moving meditation that is breath. Move to the beat. Connect. Reset. Be still. 
 These Vinyasa classes are playful, uplifting and leave you feeling higher and stronger. Sun salutations to warm the body, various standing and seated postures to strengthen, including backbends, forward folds, hip openers - all the while syncing breath to beat. Float away with a smile.

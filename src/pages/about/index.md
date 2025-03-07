@@ -11,7 +11,6 @@ featuredimage: /img/DSC_9568.jpg
 ---
 
 ![DSC_9829](/img/DSC_9829.jpg)
-<!-- ![clay-images-12](/img/clay-images-12.jpg) -->
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="text-align: justify;">

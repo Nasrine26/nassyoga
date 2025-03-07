@@ -1,10 +1,10 @@
 ---
 templateKey: index-page
 title: NASSYOGA 
-image: /img/clay-images-7.jpg
+image: /img/nassyoga_logo.jpg
 description: Come & flow with me to the beat of your breath.
-thumbnail: /img/clay-images-7.jpg
+thumbnail: /img/nassyoga_logo.jpg
 heading: Main Heading
 subheading: Sub HEading
-featuredimage: /img/clay-images-7.jpg
+featuredimage: /img/nassyoga_logo.jpg
 ---
