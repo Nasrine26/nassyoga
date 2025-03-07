@@ -1,13 +1,9 @@
 
-<h1 align=center>  Clay - A Gatsby Theme | <a href="https://clay-theme.netlify.app" rel="nofollow">Demo</a></h1>
+<h1 align=center>  Nassyoga - A Gatsby Theme | <a href="https://clay-theme.netlify.app" rel="nofollow">Demo</a></h1>
 
 
-![clay-gatsby-theme](https://github.com/lilxyzz/gatsby-clay/blob/master/src/img/Clay-Gatsby-theme.png)
+![clay-gatsby-theme](src/img/nassyoga_logo.jpg)
 <br></br>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/84e7f42b-65db-4363-a581-2267c2654efb/deploy-status)](https://app.netlify.com/sites/clay-theme/deploys)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lilxyzz/clay-theme)
 
 An image-centric Gatsby theme for a yoga teacher-
 
