@@ -2,7 +2,7 @@
 templateKey: exhibitions-sub-page
 thumbnail: /img/DSC_9661.jpg
 date: 2023-03-16T04:59:59.653Z
-title: Tues @CitySport Hatha Yoga 12.15pm
+title: TUE @CitySport Hatha Yoga 12.15pm
 description: "A balance of effort and ease, exploring steadiness through asanas"
 ---
 
@@ -11,6 +11,8 @@ description: "A balance of effort and ease, exploring steadiness through asanas"
 [**<span style="color:#9C5648;">CitySport EC1 | Book my class</span>**](https://bookings.citysport.org.uk/LhWeb/en/Public/Bookings)
 
 ---
+
+**Hatha Yoga 12.15pm**
 
 Through mindful movement, we try to find a “good space” that allows for us to feel stable and have a sense of ease.
 
