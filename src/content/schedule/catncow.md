@@ -8,7 +8,9 @@ description: ""
 
 <div style="text-align: justify;">
 
-[**<span style="color:#9C5648;">CAT N' COW South Kensington | Book my class</span>**](https://catncow.com/book/)
+<a href="https://catncow.com/book/" style="display: block; text-decoration: none; margin-bottom: 20px;">
+  <strong style="color:#9C5648;">CAT N' COW South Kensington | Book my class</strong>
+</a>
 
 ---
 
@@ -38,8 +40,13 @@ Suitable for all levels
 
 ---
 
-Ready to flow? [**<span style="color:#9C5648;">Book in</span>**](https://catncow.com/book/), classes are open to all levels!
+Ready to flow? <a href="https://catncow.com/book/" style="display: block; text-decoration: none; margin-bottom: 20px;">
+  <strong style="color:#9C5648;">Book in!</strong>
+</a>
 
-[**<span style="color:#7E8378;">1 Harrington Gardens, South Kensington, London SW7 4JJ</span>**](https://www.google.com/maps?client=firefox-b-d&sca_esv=2dacf5db398f8a2d&uact=5&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2NhdGNvdyB5b2dhMgsQABiABBiRAhiKBTIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCkjfEFCLAlijEHAAeAKQAQCYAcYBoAG3BKoBAzEuM7gBA8gBAPgBAZgCBaAC6QTCAgQQABhHwgIQEC4YgAQYxwEYChiOBRivAcICCxAuGIAEGMcBGK8BwgIFEAAY7wXCAggQABiABBiiBJgDAIgGAZAGCJIHBTIuMi4xoAf0Ig&um=1&ie=UTF-8&fb=1&gl=uk&sa=X&geocode=KRGKbq1gBXZIMaaCWz8ruR7-&daddr=1+Harrington+Gardens,+South+Kensington,+London+SW7+4JJ)
+<a href="https://www.google.com/maps?client=firefox-b-d&sca_esv=2dacf5db398f8a2d&uact=5&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2NhdGNvdyB5b2dhMgsQABiABBiRAhiKBTIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCkjfEFCLAlijEHAAeAKQAQCYAcYBoAG3BKoBAzEuM7gBA8gBAPgBAZgCBaAC6QTCAgQQABhHwgIQEC4YgAQYxwEYChiOBRivAcICCxAuGIAEGMcBGK8BwgIFEAAY7wXCAggQABiABBiiBJgDAIgGAZAGCJIHBTIuMi4xoAf0Ig&um=1&ie=UTF-8&fb=1&gl=uk&sa=X&geocode=KRGKbq1gBXZIMaaCWz8ruR7-&daddr=1+Harrington+Gardens,+South+Kensington,+London+SW7+4JJ" style="display: block; text-decoration: none; margin-bottom: 20px;">
+  <strong style="color:#7E8378;">1 Harrington Gardens, South Kensington, London SW7 4JJ</strong>
+</a>
+
 
 </div>
