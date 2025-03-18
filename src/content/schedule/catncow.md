@@ -1,6 +1,6 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/DSC_9747.jpg
+thumbnail: /img/DSC_9566.jpg
 date: 2023-03-06T05:10:14.676Z
 title: FRI & SUN @CAT N' COW
 description: ""

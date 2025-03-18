@@ -1,6 +1,6 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/DSC_9566.jpg
+thumbnail: /img/DSC_9747.jpg
 date: 2023-03-16T04:59:59.653Z
 title: TUE & WED @CitySport EC1
 description: "A balance of effort and ease, exploring steadiness through asanas"
