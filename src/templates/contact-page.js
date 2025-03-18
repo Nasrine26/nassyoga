@@ -54,14 +54,23 @@ const ContactPage = ({ data }, location) => {
         </div>
       )}
         <div className="post-content-body">
-          <p>  Let's connect! If you'd like to learn more about my classes, retreats or workshops, please get in touch on{' '}
-  <a 
-    href={`https://instagram.com/${social.instagram}`} 
-    target="_blank" 
-    rel="noopener noreferrer" 
-    style={{ color: "#9C5648" }}>
+          <p>    Let's connect! If you'd like to learn more about my classes, retreats or workshops, please get in touch on{' '}
+  <button
+    type="button"
+    onClick={() => window.open(`https://instagram.com/${social.instagram}`, '_blank')}
+    style={{
+      background: '#9C5648',
+      border: 'none',
+      color: "#ECE9E3",
+      textDecoration: 'none',
+      cursor: 'pointer',
+      padding: '1px 8px',
+      fontSize: 'inherit',
+      fontFamily: 'inherit'
+    }}
+  >
     Instagram
-  </a>{' '}
+  </button>{' '}
   or fill this form. </p>
          
           <h3 id="forms">Form</h3>
