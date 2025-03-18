@@ -1,8 +1,8 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/DSC_9661.jpg
+thumbnail: /img/DSC_9566.jpg
 date: 2023-03-16T04:59:59.653Z
-title: TUE @CitySport Hatha 12.15pm
+title: TUE & WED @CitySport EC1
 description: "A balance of effort and ease, exploring steadiness through asanas"
 ---
 
@@ -20,9 +20,14 @@ description: "A balance of effort and ease, exploring steadiness through asanas"
   </button>
 </div>
 
-**Hatha Yoga 12.15pm**
+**Tuesday 12.15pm | Hatha Yoga - all levels**
 
-Through mindful movement, we try to find a “good space” that allows for us to feel stable and have a sense of ease.
+Through mindful movement, we try to find a “good space” that allows us to feel stable and have a sense of ease.
+
+**Wednesday 17.45pm | Female Yoga - all levels**
+
+We flow through the moving meditation that is breath. Move to the beat. Connect. Reset. Be still. 
+These Vinyasa classes are playful, uplifting and leave you feeling higher and stronger. Expect sun salutations to warm the body, various standing and seated postures to strengthen, including backbends, forward folds, and hip openers - all the while syncing breath to beat. Float away with a smile.
 
 See you on the mat!
 
