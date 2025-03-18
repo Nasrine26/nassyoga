@@ -20,8 +20,6 @@ description: ""
   </button>
 </div>
 
----
-
 **Friday 11am | Dynamic Vinyasa - all levels**
 
 A challenging and playful Vinyasa class to work the entire body, focusing on balancing and building strength, stamina and flexibility. Expect to generate lots of internal heat within the body as you work deeper into the breath.
