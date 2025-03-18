@@ -12,6 +12,14 @@ description: ""
   <strong style="color:#9C5648;">CAT N' COW South Kensington | Book my class</strong>
 </a>
 
+<div style="margin-bottom:20px;">
+  <button 
+    onclick="window.location.href='https://catncow.com/book/'" 
+    style="background:#ECE9E3; border:none; padding:2; color:#ECE9E3; font-size:inherit; font-weight:bold; cursor:pointer;">
+    <strong style="color:#9C5648;">CAT N' COW South Kensington | Book my class</strong>
+  </button>
+</div>
+
 ---
 
 **Friday 11am | Dynamic Vinyasa**
