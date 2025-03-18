@@ -54,8 +54,16 @@ const ContactPage = ({ data }, location) => {
         </div>
       )}
         <div className="post-content-body">
-          <p>Let's connect! If you'd like to learn more about my classes, retreats or workshops, please get in touch on Instagram or fill this form.</p>
-
+          <p>  Let's connect! If you'd like to learn more about my classes, retreats or workshops, please get in touch on{' '}
+  <a 
+    href={`https://instagram.com/${social.instagram}`} 
+    target="_blank" 
+    rel="noopener noreferrer" 
+    style={{ color: "#9C5648" }}>
+    Instagram
+  </a>{' '}
+  or fill this form. </p>
+         
           <h3 id="forms">Form</h3>
           <form name="contact" method="POST" data-netlify="true" action="thanks" onSubmit={handleSubmit}
           >
