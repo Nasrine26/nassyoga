@@ -63,8 +63,13 @@ const Layout = (props) => {
             </ul>
           </nav>
           <div className="site-head-center">
-            <Link className="site-head-logo" to={`/`}>
-              {title}
+            <Link className="site-head-logo" to={`/`} style={{ display: 'flex', alignItems: 'center' }}>
+            <img
+              src="/img/nassyoga_logo.jpg"      // ← update path if needed
+              alt="Nas Yoga Logo"
+              style={{ height: 40, marginRight: 12 }}
+            />
+              <span>{title}</span>
             </Link>
           </div>
           <div className="site-head-right">
