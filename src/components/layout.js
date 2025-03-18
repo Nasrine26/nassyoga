@@ -67,7 +67,7 @@ const Layout = (props) => {
             <img
               src="/img/nassyoga_logo.jpg"      // ← update path if needed
               alt="Nas Yoga Logo"
-              style={{ height: 40, marginRight: 12 }}
+              style={{ height: 30, marginRight: 12 }}
             />
               <span>{title}</span>
             </Link>
