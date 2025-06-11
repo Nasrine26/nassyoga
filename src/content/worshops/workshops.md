@@ -43,7 +43,7 @@ Join **Nasrine**, **Hannah** and **Cally** for an energising, nourishing and rel
 
 **£55 — limited to 12 spots!** 
 
-To book email: **nasrinemetic@yahoo.fr**.
+To book email: [**nassyyoga@gmail.com**](mailto:nassyyoga@gmail.com).
 
 <hr style="border: none; border-top: 1px solid #ccc; margin: 40px 0;" />
 

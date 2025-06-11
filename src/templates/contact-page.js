@@ -71,8 +71,10 @@ const ContactPage = ({ data }, location) => {
   >
     Instagram
   </button>{' '}
-  or fill this form. </p>
-         
+  or email me at <a href="mailto:nassyyoga@gmail.com" style={{ color: '#9C5648' }}>nassyyoga@gmail.com</a>.
+ </p>
+ 
+          {/* FORM DISABLED FOR NOW
           <h3 id="forms">Form</h3>
           <form name="contact" method="POST" data-netlify="true" action="thanks" onSubmit={handleSubmit}
           >
@@ -124,8 +126,7 @@ const ContactPage = ({ data }, location) => {
                   required={true}
                 />
               </div>
-              {/* Break */}
-              {/* General, Individual class, Corporate class, Retreat, Other */}
+
               <div className="col-12">
                 <select name="category" id="category" onChange={handleChange} required={true}>
                   <option value>-Nature of Enquiry-</option>
@@ -137,26 +138,7 @@ const ContactPage = ({ data }, location) => {
                 </select>
               </div>
 
-              {/* Break */}
-              {/* <div className="col-6 col-12-small">
-                <input type="checkbox"
-                  id="send-a-copy"
-                  name="send-a-copy"
-                  defaultValue='false'
-                  onChange={handleChange} />
-                <label htmlFor="demo-copy">Email me a copy</label>
-              </div>
-              <div className="col-6 col-12-small">
-                <input
-                  type="checkbox"
-                  id="iam-human"
-                  name="iam-human"
-                  defaultValue='false'
-                  onChange={handleChange}
-                />
-                <label htmlFor="demo-human">I am a human</label>
-              </div> */}
-              {/* Break */}
+
               <div className="col-12">
                 <textarea
                   name="message"
@@ -171,7 +153,7 @@ const ContactPage = ({ data }, location) => {
               
               <div data-netlify-recaptcha="true"></div>
   
-              {/* Break */}
+              
               <div className="col-12">
                 <ul className="actions">
                   <li>
@@ -186,6 +168,8 @@ const ContactPage = ({ data }, location) => {
               </div>
             </div>
           </form>
+          */}
+
         </div>
 
 
