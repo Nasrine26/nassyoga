@@ -36,24 +36,37 @@ const Layout = (props) => {
               >
                 <Link to={`/`}>Home</Link>
               </li>
+              {/*
               <li
                 className={`nav-home  ${data.pathname.includes("/about") ? "nav-current" : ""} `}
                 role="menuitem"
               >
                 <Link to={`/about`}>About</Link>
               </li>
-              <li
-                className={`nav-home  ${data.pathname.includes("/gallery") ? "nav-current" : ""} `}
-                role="menuitem"
-              >
-                <Link to={`/gallery`}>Gallery</Link>
-              </li>
+              */}
               <li
                 className={`nav-home  ${data.pathname.includes("/schedule") ? "nav-current" : ""} `}
                 role="menuitem"
               >
                 <Link to={`/schedule`}>Schedule</Link>
               </li>
+              
+              <li
+              className={`nav-home  ${data.pathname.includes("/workshops") ? "nav-current" : ""} `}
+              role="menuitem"
+              >
+                <Link to={`/workshops`}>Workshops/Retreats</Link>
+                </li>
+
+
+              <li
+                className={`nav-home  ${data.pathname.includes("/gallery") ? "nav-current" : ""} `}
+                role="menuitem"
+              >
+                <Link to={`/gallery`}>Gallery</Link>
+              </li>
+            
+              
               <li
                 className={`nav-home  ${data.pathname.includes("/contact") ? "nav-current" : ""} `}
                 role="menuitem"
