@@ -2,7 +2,7 @@
 templateKey: exhibitions-sub-page
 thumbnail: /img/DSC_9747.jpg
 date: 2023-03-16T04:59:59.653Z
-title: TUE & WED @CitySport EC1
+title: SUN @CitySport EC1
 description: "A balance of effort and ease, exploring steadiness through asanas"
 ---
 
@@ -20,13 +20,9 @@ description: "A balance of effort and ease, exploring steadiness through asanas"
   </button>
 </div>
 
-**Tuesday 12.15pm | Hatha Yoga - all levels**
+**Sunday 10am | Vinyasa To The Beat - all levels**
 
-Through mindful movement, we try to find a “good space” that allows us to feel stable and have a sense of ease.
-
-**Wednesday 17.45pm | Female Yoga - all levels**
-
-We flow through the moving meditation that is breath. Move to the beat. Connect. Reset. Be still. 
+The heart of the dynamic practice is the alignment of the breath to the beat of the music. Move to the beat. Connect. Reset. Be still. 
 These Vinyasa classes are playful, uplifting and leave you feeling higher and stronger. Expect sun salutations to warm the body, various standing and seated postures to strengthen, including backbends, forward folds, and hip openers - all the while syncing breath to beat. Float away with a smile.
 
 See you on the mat!
